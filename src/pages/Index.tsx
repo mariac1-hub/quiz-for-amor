@@ -1,8 +1,8 @@
 
-import QuizApp from '@/components/QuizApp';
+import RomanticWebsite from '@/components/RomanticWebsite';
 
 const Index = () => {
-  return <QuizApp />;
+  return <RomanticWebsite />;
 };
 
 export default Index;
